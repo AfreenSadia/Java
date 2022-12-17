@@ -1,0 +1,10 @@
+Name: ali
+Age: 45
+Date of Birth: 20-2-1999
+Phone Number: 7146595955
+Email Address: ali@gmail.net
+NID Number: 284616987526
+Driving License: 5959595598
+Password: adwf
+Re-entered Password: adwf
+Confirmed: Yes

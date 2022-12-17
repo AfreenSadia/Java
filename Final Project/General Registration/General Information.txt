@@ -1,0 +1,8 @@
+Name: Sadia
+Age: 20
+Date of Birth: 2-5-20
+Phone Number: 1797203203
+Email Address: afrin@gmail.com
+Password: IoWa13
+Re-entered Password: IoWa13
+Cofirmed ?: yes

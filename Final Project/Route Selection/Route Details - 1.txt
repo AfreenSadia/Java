@@ -1,0 +1,3 @@
+Cureent Location: Badda
+Trip Destination: Mirpur
+Confirmed ?:Yes
